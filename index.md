@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head> 
-  <title>My test page</title> 
+  <title>A small website about Khus</title> 
     <meta charset="utf-8"> 
     <link href="styles/styles.css" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap" rel="stylesheet">
